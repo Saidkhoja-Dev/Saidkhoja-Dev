@@ -36,7 +36,9 @@
 
 <div display="flex">
   
+  <p>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31m4tochms2oyrxrnhnhdx66yj7u&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=61865f)](https://github.com/kittinan/spotify-github-profile)
 
 ![snake_animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+   </p>
 </div>
