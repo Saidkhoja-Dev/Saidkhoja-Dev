@@ -1,7 +1,7 @@
 ### Hi there, I'm Saidaminxo'ja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MahmudxojayevS)
-
+[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0088cc?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saidaminxoja-mahmudxojayev-755759257/)
 
 ## 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" width="408" />
