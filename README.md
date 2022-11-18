@@ -1,25 +1,44 @@
-<h1 align="center">Hi 👋, I'm Saidaminkhoja</h1>
-<h3 align="center">Frontend developer from Uzbekistan</h3>
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saidkhoja-dev&label=Profile%20views&color=0e75b6&style=flat" alt="saidkhoja-dev" /> </p>
+### Hi there, I'm Tolibjon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__1nagamofff__/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/tolib797)
+[![](https://visitor-badge.glitch.me/badge?page_id=shahriyor-sharifjonov.shahriyor-sharifjonov)]()
 
-- 🌱 I’m currently learning **React Js**
+## 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" width="408" />
 
-- 💬 Ask me about **React Developer**
+**Talking about Personal Stuffs:**
 
-- 📫 How to reach me **saidaminxojamahmudxojayev2003@gmail.com**
+- 🔭 I’m currently learning on something cool;
+- 💬 Ask me about anything. I will try to help you as much as I can.
 
-- ⚡ Fun fact **I am Funny**
+##
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/main/icons/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://github.com/shahriyor-sharifjonov/shahriyor-sharifjonov/blob/main/icons/css-3.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
+<img align="left" alt="Gulp" width="30px" src="https://mwcoders.com/wp-content/uploads/2018/02/gulpjs-logo.jpg" />
+<img align="left" alt="Sass" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQnR9v6dz-WclZyXLZU6l8yuohRJ9Fe69vcJuICc2lt6LTb8ic6iuXhE6e2GSIdDhwRck&usqp=CAU" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/main/icons/visual-studio.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/main/icons/iconfinder_2993773_git_social%20media_icon_128px.png" />
+<img align="left" alt="Node JS" width="30px" src="https://codingfinder.com/wp-content/uploads/2019/12/nodejslogo.png" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidkhoja-dev&show_icons=true&locale=en&layout=compact" alt="saidkhoja-dev" /></p>
+<br>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidkhoja-dev&show_icons=true&locale=en" alt="saidkhoja-dev" /></p>
+##
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saidkhoja-dev&" alt="saidkhoja-dev" /></p>
+
+📈 **My GitHub Stats:**
+
+<div display="flex">
+  <p>
+    <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=tolibjoninagamov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
+    <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolibjoninagamov&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
+  </p>
+</div>
+<br>
+
+
+![snake_animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
