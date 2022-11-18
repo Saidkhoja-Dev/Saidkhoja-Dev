@@ -1,7 +1,7 @@
 ### Hi there, I'm Saidaminxo'ja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MahmudxojayevS)
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0088cc?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saidaminxoja-mahmudxojayev-755759257/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0088cc?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saidaminxoja-mahmudxojayev-755759257/)
 
 ## 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" width="408" />
@@ -18,7 +18,7 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/main/icons/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://github.com/shahriyor-sharifjonov/shahriyor-sharifjonov/blob/main/icons/css-3.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="left" alt="Gulp" width="30px" src="https://mwcoders.com/wp-content/uploads/2018/02/gulpjs-logo.jpg" />
+<img align="left" alt="React" width="30px" src="https://mwcoders.com/wp-content/uploads/2018/02/react-logo.jpg" />
 <img align="left" alt="Sass" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQnR9v6dz-WclZyXLZU6l8yuohRJ9Fe69vcJuICc2lt6LTb8ic6iuXhE6e2GSIdDhwRck&usqp=CAU" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/main/icons/visual-studio.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/main/icons/iconfinder_2993773_git_social%20media_icon_128px.png" />
