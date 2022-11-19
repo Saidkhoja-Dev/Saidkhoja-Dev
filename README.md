@@ -2,7 +2,7 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MahmudxojayevS)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0088cc?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saidaminxoja-mahmudxojayev-755759257/)
-[![CodePen Badge](https://img.shields.io/badge/-CodePen-0088cc?style=flat-square&logo=CodePen&logoColor=white)][(https://www.codepen.com/in/saidaminxoja-mahmudxojayev-755759257/)](https://codepen.io/Mahmudkhojayev)
+[![CodePen Badge](https://img.shields.io/badge/-CodePen-0088cc?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/Mahmudkhojayev)
 ## 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" width="408" />
 
