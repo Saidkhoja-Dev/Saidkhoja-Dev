@@ -6,15 +6,20 @@
 ## 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shahriyor-sharifjonov/shahriyor-sharifjonov/master/coding-2.gif" width="408" />
 
+<p  align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Front-End%20Developer;Self-Taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=6948fb&vCenter=true&size=25">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    </p> <p  align="center">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Front-End%20Developer;Self-Taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=6948fb&vCenter=true&size=25">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    </p> 
+
 **Talking about Personal Stuffs:** 
 
 - 🔭 I’m currently learning on something cool;
 - 💬 Ask me about anything. I will try to help you as much as I can.
 
-<p  align="center">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Front-End%20Developer;Self-Taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=6948fb&vCenter=true&size=25">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-    </p>               
+              
 
 ### Languages and Tools:
 
