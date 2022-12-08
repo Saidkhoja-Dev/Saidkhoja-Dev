@@ -1,5 +1,5 @@
 ## Hi there,  I'm Saidaminxo'ja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-                   
+                      
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MahmudxojayevS)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0088cc?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saidaminxoja-mahmudxojayev-755759257/)          
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-0088cc?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/Mahmudkhojayev)
