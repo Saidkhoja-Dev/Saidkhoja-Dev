@@ -48,12 +48,12 @@
      <img width="55%" align="top" src="https://github-readme-stats.vercel.app/api?username=Saidkhoja-Dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
     <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidkhoja-Dev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
   </p>
-</div>
+</div> 
 <br>
 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=Saidkhoja-Dev&&style=flat-square" align="center" />
-</div>
+</div>    
 
 
 ![snake_animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)                  
