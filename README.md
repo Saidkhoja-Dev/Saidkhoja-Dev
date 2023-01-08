@@ -12,7 +12,7 @@
 
 **Talking about Personal Stuffs:** 
 
-- 🔭 I’m currently learning on something cool; 
+- 🔭 I’m currently learning on something cool;  
 - 💬 Ask me about anything. I will try to help you as much as I can.
  
               
