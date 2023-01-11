@@ -3,7 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/MahmudxojayevS)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0088cc?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/saidaminxoja-mahmudxojayev-755759257/)             
 [![CodePen Badge](https://img.shields.io/badge/-CodePen-0088cc?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/Mahmudkhojayev)
-##                         
+##                           
   
 <p align="center">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Front-End%20Developer;Self-Taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=50&color=6948fb&vCenter=true&size=25">
